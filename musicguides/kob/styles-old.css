@@ -1,0 +1,61 @@
+th, td {
+    border-bottom: 1px solid #ddd;
+}
+
+table {
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  font-family: "Arial";
+}
+
+#container {
+	margin: 1em;
+}
+
+#album {
+	font-family: "Arial";
+	font-size: 1.8em;
+}
+
+#track {
+	font-family: "Arial";
+	font-size: 1.8em;
+}
+
+#intro {
+	margin-top: 0.75em;
+	font-family: "Arial";
+	font-size: 1.1em;
+	margin-bottom: 0.75em;
+}
+
+#playbutton {
+	margin-top: 1em;
+	margin-bottom: 0.25em;
+}
+
+#playbuttontext {
+	font-family: "Arial";
+	font-size: 0.9em;
+	font-style: italic;
+	margin-bottom: 0.75em;
+}
+
+button {
+    background-color: #9BE;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    color: #fff;
+    font-family: 'Arial';
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+}
+
+button:hover {
+    border: none;
+    background:#ACF;
+}

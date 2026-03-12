@@ -1,0 +1,5 @@
+thetext=<HTML><BODY><A HREF="asfunction:handleHREF,795"><font color="#FF0000">[44]</font></A>  1, in inversion, in e minor.  Half the tempo of the second theme, but still not as slow as the opening. (quarter=42)
+
+<A HREF="asfunction:handleHREF,821"><font color="#FF0000">[45]</font></A> 2nd bar  1b, in the piccolo, followd by the violins.  5/1 in d minor emphasized in timpani and trumpets.
+
+<A HREF="asfunction:handleHREF,868"><font color="#FF0000">[47]</font></A>  Chromatic scale in celesta fills in minor sixth from x.</BODY></HTML>

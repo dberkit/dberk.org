@@ -1,0 +1,2 @@
+thetext=<HTML><BODY><b>Performed by the Philharmonia Orchestra<br>Conducted by Vladimir Ashkenazy<br>Orchestral transcription by Vladimir Ashkenazy</b>
+</BODY></HTML>

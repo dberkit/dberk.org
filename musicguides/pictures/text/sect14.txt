@@ -1,0 +1,4 @@
+thetext=<HTML><BODY><b>Con mortuis in lingua mortua</b>
+Hartmann had painted a <a href="asfunction:showImage,10"><font color="#FF0000"><u>picture</u></font></a> of himself and a fellow architect examining the ancient catacombs of Paris. As if to indicate that this watercolor of a burial-place brought home with special poignancy the fact of Hartmann's death, Mussorgsky follows <i>Catacombae</i> with an exceedingly sad restatement of the <i>Promenade</i> theme under the title <i>Con Mortuis in Lingua Mortua</i> (which he apparently thought was acceptable Latin). He also appends a footnote in Russian: 
+"A Latin text: 'with the dead in a dead language.' Well may it be in Latin! The creative spirit of the departed Hartmann leads me to the skulls, calls me close to them, and the skulls grow softly from within."
+</BODY></HTML>

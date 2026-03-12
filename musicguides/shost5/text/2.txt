@@ -1,0 +1,9 @@
+thetext=<HTML><BODY><A HREF="asfunction:handleHREF,615"><font color="#FF0000">[36]</font></A>  Still no full PAC, but four measures of repeated As before [36] culminate in a D/A fifth, and a fff unison statement of x3, eventually followed by 1b.  Less than half the tempo of the preceding section, but still faster than the opening (quarter=66)
+
+<A HREF="asfunction:handleHREF,666"><font color="#FF0000">[38]</font></A> 4th bar  x1, in inversion.  The tempo briefly returns to the opening pace.
+
+<A HREF="asfunction:handleHREF,691"><font color="#FF0000">[39]</font></A>  2, in D major, as a canon between flute and horn.  First time that the harp has been used since the exposition of the 2nd theme.  Same tempo as in the exposition.
+
+<A HREF="asfunction:handleHREF,733"><font color="#FF0000">[41] 2nd bar</font></A>  1b, in the clarinet
+
+<A HREF="asfunction:handleHREF,750"><font color="#FF0000">[42]</font></A>  2, in the bassoon, as a bass line to y in the clarinet and oboe.</BODY></HTML>

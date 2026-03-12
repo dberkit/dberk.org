@@ -1,0 +1,21 @@
+thetext=<HTML><BODY><A HREF="asfunction:handleHREF,404"><font color="#FF0000">[17]</font></A>  Beginning of development, based on y.  First appearance of the piano.  Horns, in the extreme low register, play a rhythmically augmented version of 1.  Trumpets join at [18], creating the illusion of a canon at the minor second.  The tempo is faster here (quarter=92), and will continue to accelerate.
+
+<A HREF="asfunction:handleHREF,441"><font color="#FF0000">[19]</font></A>  The upper woodwinds enter with 1, with its original rhythmic values.  After 1.5 bars, 1 turns into 1b.  Even faster (quarter=104)
+
+<A HREF="asfunction:handleHREF,457"><font color="#FF0000">[21] 2nd bar</font></A>  Motives from x2 and 1b
+
+<A HREF="asfunction:handleHREF,469"><font color="#FF0000">[22]</font></A>  Canon between lower strings and upper winds.  Theme combines head motive from 2 and x2.  Even faster (quarter=126)
+
+<A HREF="asfunction:handleHREF,482"><font color="#FF0000">[23] 3rd bar</font></A>  First use of x1 in the development.
+
+<A HREF="asfunction:handleHREF,487"><font color="#FF0000">[24]</font></A>  Canon based on 2 between lower and upper strings.  Trumpet accompaniment figure is a rhythmic diminution of the original accompaniment to 2.
+
+<A HREF="asfunction:handleHREF,499"><font color="#FF0000">[25] 4th bar</font></A>  1. as canon between upper winds and lower strings.  Even faster (quarter=132)
+
+<A HREF="asfunction:handleHREF,518"><font color="#FF0000">[27]</font></A>  1 as march.  First entrance of the percussion.  Snare drum figure has been prepared by the trumpets at [24].  The first place in the movement where the tempo pulls back (quarter=126)
+
+<A HREF="asfunction:handleHREF,542"><font color="#FF0000">[29]</font></A>  1b, in the violins and upper winds
+
+<A HREF="asfunction:handleHREF,546"><font color="#FF0000">[29] 4th bar</font></A>  Augmented version of x in low strings and low brass, followed by augmented version of 1 in horns and trumpets.
+
+<A HREF="asfunction:handleHREF,567"><font color="#FF0000">[32]</font></A>  Climax of the development.  x, as canonic accompaniment to 2, as a canon between low brass and horns.  The fastest tempo of the movement (quarter=138)</BODY></HTML>

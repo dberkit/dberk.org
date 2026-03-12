@@ -1,0 +1,3 @@
+thetext=<HTML><BODY><b>Gnomus</b>
+Hartmann's sketch was for a carved wooden nutcracker that broke the shells between the jaws of a wizened, comical face. Nutcrackers of this kind, still commonly made in Switzerland, were very popular in Russia at that period; such was the hero of Tchaikovsky's ballet, not the functional silver nutcracker which all too often appears in modern revivals of this celebrated stage-piece. Mussorgsky's music depicts a twitching, jumping homunculus. (Hartmann's nutcracker has disappeared, but <a href="asfunction:showImage,1"><font color="#FF0000"><u>this image</u></font></a> is a good example of his style in craftwork of this type.)
+</BODY></HTML>

@@ -1,0 +1,21 @@
+thetext=<HTML><BODY><A HREF="asfunction:handleHREF,0"><font color="#FF0000">[Opening]</font></A>  A four bar introductory passage, which introduces x.  The first two bars (x1) are presented as a canon between violins and lower strings.  The third and fourth bars (x2) use a figure that will also be part of the first theme.
+
+<A HREF="asfunction:handleHREF,27"><font color="#FF0000">[1]</font></A>  The first theme (1).  The accompaniment rhythm is similar to that of x1.  Although there hasn't been a cadence in d minor yet, the key is established by the 1/5 alternation in the accompaniment.
+
+<A HREF="asfunction:handleHREF,59"><font color="#FF0000">[2]</font></A>  x returns, with a repetition of x2.
+
+<A HREF="asfunction:handleHREF,90"><font color="#FF0000">[3]</font></A>  x2 is extend into a longer violin melody (x3)
+
+<A HREF="asfunction:handleHREF,156"><font color="#FF0000">[5] 2nd bar</font></A>  Transitional section, based on x
+          x3, in the bassoon, provides a bass line for a new melody in the oboe (1b).
+
+<A HREF="asfunction:handleHREF,170"><font color="#FF0000">[6]</font></A>  x (at its original pitch level) is superimposed on x3 (in the cellos and bassoon)
+
+<A HREF="asfunction:handleHREF,226"><font color="#FF0000">[8] 2nd bar</font></A>  x, in inversion, closes the first theme group.
+
+<A HREF="asfunction:handleHREF,243"><font color="#FF0000">[9]</font></A>  The second theme (2), in e-flat minor.  This is the first appearance of the harp.  The tempo more than doubles here (the new quartet note at 84 is faster than the old 1/8th at 72)
+
+<A HREF="asfunction:handleHREF,298"><font color="#FF0000">[12]</font></A>  Variant of 2 in the 1st violas, with a new accompaniment figure in the 2nd violas and cellos (y).
+
+<A HREF="asfunction:handleHREF,372"><font color="#FF0000">[15]</font></A>  2nd iteration of 2, in b minor, in the violas
+</BODY></HTML>

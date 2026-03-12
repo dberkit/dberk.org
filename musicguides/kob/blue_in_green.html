@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Kind of Blue listening guide</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<div id="container">
+<div id="album">Miles Davis - Kind of Blue</div>
+<div id="track">Blue in Green</div>
+<div id="intro">"Blue in Green" is a 10-measure circular form following a 4-measure introduction, and played by soloists in various augmentation and diminution of time values.</div>
+<div id="playbutton"><button id="playpause" type="button">Play/Pause</button></div>
+<div id="time">0:00</div>
+<div id="playbuttontext">Click in any table row to go that section.</div>
+
+<table id="musicGuide" border=0 cellspacing=0 cellpadding=12>
+  <tr bgcolor="#ddd">
+		<td>Section</td>
+		<td>Time</td>
+		<td>Description</td>
+	</tr>
+	<tr>
+		<td>Intro</td>
+		<td>0:00</td>
+		<td>Bass and piano play a slow introduction.&nbsp; The structure is the last 8 bars of the tune, played at twice the speed—a diminution of the time value by half.&nbsp; Two chords per measure.</td>
+	</tr>
+	<tr>
+		<td>Head</td>
+		<td>0:18</td>
+		<td>Cobb's entrance on the snare drum softly with brushes marks the top of the form.&nbsp; Miles enters shortly after with a languid harmon-muted sound.&nbsp; The tune is in a slow 4/4 meter.&nbsp; The chords move at one per measure.</td>
+	</tr>
+	<tr>
+		<td>Trumpet solo</td>
+		<td>1:01</td>
+		<td>The meter stays the same for the trumpet solo. Miles takes just one chorus of 10 bars.</td>
+	</tr>
+	<tr>
+		<td>Piano solo</td>
+		<td>1:44</td>
+		<td>The trumpet solo dovetails into the piano solo. Evans and Chambers diminish the time values by half. The pulse stays the same, but the harmonies move twice as fast: two chords per measure, like the introduction.</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>2:06</td>
+		<td>Second chorus</td>
+	</tr>
+	<tr>
+		<td>Tenor sax solo</td>
+		<td>2:27</td>
+		<td>Coltrane's solo begins with the same harmonic rhythm as the piano solo.</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>2:48</td>
+		<td>Second chorus</td>
+	</tr>
+	<tr>
+		<td>Piano solo</td>
+		<td>3:09</td>
+		<td>The time values are diminished by half again—now the harmonies are moving 4 times faster than in head. Four chords per measure, or one chord per beat. </td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>3:19</td>
+		<td>Second chorus</td>
+	</tr>
+	<tr>
+		<td>Trumpet solo</td>
+		<td>3:30</td>
+		<td>The time abruptly shifts back to the harmonic rhythm of the head: augmented by 4: one chord per measure again.</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>4:08</td>
+		<td>Second chorus, Miles paraphrases the melody of the tune during the second half of this chorus.</td>
+	</tr>
+	<tr>
+		<td>Coda</td>
+		<td>4:55</td>
+		<td>Evans plays the melody with a faster, free time feel. Bass and drums drop out.</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>5:08</td>
+		<td>The form repeats again, Chambers adding bowed notes in the bass.</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>5:21</td>
+		<td>The cycle comes back to the top again. Evan's slows down and plays the first two measures that were omitted from the introduction, plus one more chord to end the tune in the same place it started. </td>
+	</tr>
+</table>
+<div id="credits">Analysis by Mark Urness<br>Interactive table designed by David Berk</div>
+</div>
+
+<script type="text/javascript">
+	var tab;
+	document.addEventListener("DOMContentLoaded", domReady, false);
+	window.addEventListener("load", pageReady, false);
+	
+	function domReady() {
+		var element = document.createElement("script");
+		element.src = "itable.js";
+		document.body.appendChild(element);
+	}
+	
+	function pageReady() {
+		tab = new musicGuideTable("//dberk.org/musicguides/kob/audio/3_blue_in_green.mp3", 2, "#9BE");
+	}
+</script>
+</body>
+</html>

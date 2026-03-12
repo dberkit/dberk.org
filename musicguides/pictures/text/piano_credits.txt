@@ -1,0 +1,2 @@
+thetext=<HTML><BODY><b>Performed by Vladimir Ashkenazy</b>
+</BODY></HTML>

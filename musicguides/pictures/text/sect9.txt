@@ -1,0 +1,4 @@
+thetext=<HTML><BODY><b>Ballet of the Unhatched Chicks</b>
+<br><br>
+<a href="asfunction:showImage,4"><font color="#FF0000"><u>This picture</u></font></a> is one of the few direct originals of movements in Mussorgsky which we still possess. It was a costume-plate for a ballet called <i>Trilbi</i>, and its relationship to Mussorgsky's music is obvious enough. (This <i>Trilbi</i> had nothing whatever to do with George du Maurier's famous like-named novel.)
+</BODY></HTML>
