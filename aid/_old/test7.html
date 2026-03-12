@@ -1,0 +1,154 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+<div class="accordion" id="accordionExample">
+
+
+  <div class="card">
+  
+    <div class="card-header" id="headingOne">
+      <h2 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Basic Diatonic Harmony
+        </button>
+      </h2>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="card-body" id="child1">
+                    <div class="card">
+                        <div class="card-header">
+                            <a href="#" data-toggle="collapse" data-target="#collapseOneA">Topic 1</a>
+                        </div>
+                        <div class="card-body collapse" data-parent="#child1" id="collapseOneA">
+                            Idiom 1
+                        </div>
+                        <div class="card-body collapse" data-parent="#child1" id="collapseOneA">
+                            Idiom 2
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">
+                            <a href="#" data-toggle="collapse" data-target="#collapseOneB">Topic 2</a>
+                        </div>
+                        <div class="card-body collapse" data-parent="#child1" id="collapseOneB">
+                            Idiom 1
+                        </div>
+                        <div class="card-body collapse" data-parent="#child1" id="collapseOneB">
+                            Idiom 2
+                        </div>
+                    </div>
+      </div>
+    </div>
+    
+    
+    
+    <div class="card-header" id="headingTwo">
+      <h2 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+          Advanced Diatonic Harmony
+        </button>
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                <div class="card-body" id="child2">
+                    <div class="card">
+                        <div class="card-header">
+                            <a href="#" data-toggle="collapse" data-target="#collapseTwoA">Topic 1</a>
+                        </div>
+                        <div class="card-body collapse" data-parent="#child2" id="collapseTwoA">
+                            Idiom 1
+                        </div>
+                        <div class="card-body collapse" data-parent="#child2" id="collapseTwoA">
+                            Idiom 2
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header">
+                            <a href="#" data-toggle="collapse" data-target="#collapseTwoB">Topic 2</a>
+                        </div>
+                        <div class="card-body collapse" data-parent="#child2" id="collapseTwoB">
+                            Idiom 1
+                        </div>
+                        <div class="card-body collapse" data-parent="#child2" id="collapseTwoB">
+                            Idiom 2
+                        </div>
+                    </div>
+      </div>
+    </div>
+
+    
+    
+    
+    
+  </div>
+  
+  
+  
+<div id="aid">
+		
+<script>
+
+myInit();
+
+
+function myInit() {
+	var xhttp = new XMLHttpRequest();
+	xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			myFunction(this);
+		}
+	};
+	xhttp.open("GET", "https://dberk.org/aid/2.0/aid-data.xml", true);
+	xhttp.send();
+}
+
+function myFunction(xml) {
+	var xmlDoc = xml.responseXML;
+	
+	var txt = '';
+	allLevels = xmlDoc.getElementsByTagName("level");  
+	txt += '<div data-role="collapsible">'
+	txt += '<ul data-role="listview">'
+	for (i=0; i<allLevels.length; i++) {
+		x = allLevels[i];
+		y = x.getAttributeNode("label");
+		txt += '<li>' + y.nodeValue + '</li>';
+
+
+		allTopics = allLevels[i].getElementsByTagName("topic");
+		txt += '<div data-role="collapsible">'
+		txt += '<ul data-role="listview">'
+		for (j=0; j<allTopics.length; j++) {
+			xx = allTopics[j];
+			yy = xx.getAttributeNode("label");
+			txt += '<li>' + yy.nodeValue + '</li>';
+
+			allIdioms = allTopics[j].getElementsByTagName("idiom");
+			txt += '<div data-role="collapsible">'
+			txt += '<ul data-role="listview">'
+			for (k=0; k<allIdioms.length; k++) {
+				xxx = allIdioms[k];
+				yyy = xxx.getAttributeNode("label");
+				txt += '<li>' + yyy.nodeValue + '</li>';
+			}
+			txt += '</ul></div>';
+		}
+		txt += '</ul></div>';
+	}
+	txt += '</ul></div>';
+	document.getElementById("aid").innerHTML = txt;
+}
+</script>
+
+</body>
+</html>
+
+

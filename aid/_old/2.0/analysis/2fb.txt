@@ -1,0 +1,1 @@
+<p><span class='txt'>DP starts with </span><span class='symboltxt'>iii</span><span class='txt'> or </span><span class='symboltxt'>III</span><span class='txt'>, then has root motion down by 5ths</span></p>

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aural Idiom Drill</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            font-size: smaller;
+        }
+        .container {
+            display: flex;
+            gap: 20px;
+        }
+        .box {
+            border: 1px solid #ccc;
+            padding: 10px;
+            width: 300px;
+            min-height: 150px;
+            overflow-y: auto;
+            white-space: nowrap;
+        }
+        .item {
+            cursor: pointer;
+            padding: 5px;
+        }
+        .item:hover {
+            background-color: #f0f0f0;
+        }
+        .selected {
+            background-color: lightyellow;
+        }
+        .image-container {
+            margin-top: 20px;
+            margin-left: 690px;
+        }
+        .image-container img {
+            height: auto;
+            padding: 10px;
+        }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            function fetchXMLData() {
+                fetch('aid-data.xml')
+                    .then(response => response.text())
+                    .then(xmlString => {
+                        const parser = new DOMParser();
+                        const xmlDoc = parser.parseFromString(xmlString, "text/xml");
+                        processXML(xmlDoc);
+                    })
+                    .catch(error => console.error('Error loading XML:', error));
+            }
+
+            function processXML(xmlDoc) {
+                const levels = xmlDoc.getElementsByTagName("level");
+                const categoryDiv = document.getElementById("category");
+                const subcategoryDiv = document.getElementById("subcategory");
+                const itemsDiv = document.getElementById("items");
+                const imageDiv = document.getElementById("image");
+
+                function clearSelection(parent) {
+                    let items = parent.getElementsByClassName("item");
+                    for (let item of items) {
+                        item.classList.remove("selected");
+                    }
+                }
+
+                function createClickableItem(text, parent, callback) {
+                    let div = document.createElement("div");
+                    div.textContent = text;
+                    div.classList.add("item");
+                    div.addEventListener("click", function () {
+                        clearSelection(parent);
+                        div.classList.add("selected");
+                        callback();
+                    });
+                    parent.appendChild(div);
+                }
+
+                for (let level of levels) {
+                    let label = level.getAttribute("label");
+                    createClickableItem(label, categoryDiv, function () {
+                        updateSubcategories(level);
+                    });
+                }
+
+                function updateSubcategories(level) {
+                    subcategoryDiv.innerHTML = "";
+                    itemsDiv.innerHTML = "";
+                    imageDiv.innerHTML = "";
+                    let topics = level.getElementsByTagName("topic");
+                    for (let topic of topics) {
+                        let label = topic.getAttribute("label");
+                        createClickableItem(label, subcategoryDiv, function () {
+                            updateItems(topic);
+                        });
+                    }
+                }
+
+                function updateItems(topic) {
+                    itemsDiv.innerHTML = "";
+                    imageDiv.innerHTML = "";
+                    let idioms = topic.getElementsByTagName("idiom");
+                    for (let idiom of idioms) {
+                        let label = idiom.getAttribute("label");
+                        createClickableItem(label, itemsDiv, function () {
+                            updateImage(idiom);
+                        });
+                    }
+                }
+
+                function updateImage(idiom) {
+                    let instances = idiom.getElementsByTagName("instance");
+                    imageDiv.innerHTML = ``;
+                    let audio = document.createElement('audio');
+                    audio.id = 'audioPlayer';
+                    audio.style.display = 'none'; // Hide audio controls
+
+                    if (instances.length > 0) {
+                        for (let i=0; i < instances.length; i++) {
+                            let example = instances[i].id;
+                            // Adding image
+                            imageDiv.innerHTML += `<p><img src='media/images/${example}.png' onclick="playAudio('${example}')"></p>`;
+                            // Set the audio source to the corresponding audio file
+                            let audioFile = `media/audio/${example}.mp3`;
+                            audio.setAttribute('src', audioFile);
+                        }
+                    }
+                    imageDiv.appendChild(audio); // Append audio player to the imageDiv
+                }
+
+                // Play audio function
+                window.playAudio = function (imageId) {
+                    const audioPlayer = document.getElementById('audioPlayer');
+                    const audioFile = `media/audio/${imageId}.mp3`;
+                    audioPlayer.src = audioFile;
+                    audioPlayer.play();
+                };
+            }
+
+            fetchXMLData();
+        });
+    </script>
+</head>
+<body>
+<h2>Select a Level</h2>
+<div class="container">
+    <div id="category" class="box"></div>
+    <div id="subcategory" class="box"></div>
+    <div id="items" class="box"></div>
+</div>
+<div id="image" class="image-container"></div>
+</body>
+</html>

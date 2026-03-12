@@ -1,0 +1,1 @@
+<p><span class='txt'>progression with </span><span class='num'>z</span><span class='symboltxt'>II</span><span class='num'>6</span></p>

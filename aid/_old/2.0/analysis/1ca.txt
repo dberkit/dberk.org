@@ -1,0 +1,1 @@
+<p><span class='num'>Vk ÷ </span><span class='symboltxt'>I</span><span class='txt'> (or </span><span class='symboltxt'>i</span><span class='txt'>) supporting scale degrees 4-3 in sop</span></p>

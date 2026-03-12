@@ -1,0 +1,93 @@
+<html>
+<head>
+<!--<script type="text/javascript" src="test.js"></script>-->
+<!--<script src="jquery-3.5.1.js"></script>-->
+<!--<script src="jquery.mobile-1.4.5/jquery.mobile-1.4.5.js"></script>-->
+
+
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+	<link rel="stylesheet" href="jquery.mobile-1.4.5/css/themes/default/jquery.mobile-1.4.5.min.css">
+	<link rel="stylesheet" href="jquery.mobile-1.4.5/_assets/css/jqm-demos.css">
+	<script src="jquery.mobile-1.4.5/demos/js/jquery.js"></script>
+	<script src="jquery.mobile-1.4.5/demos/_assets/js/index.js"></script>
+	<script src="jquery.mobile-1.4.5/demos/js/jquery.mobile-1.4.5.min.js"></script>
+
+
+
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        myFunction(this);
+    }
+};
+xhttp.open("GET", "https://dberk.org/aid/2.0/aid-data.xml", true);
+xhttp.send();
+
+function myFunction(xml) {
+    var xmlDoc = xml.responseXML;
+    //document.getElementById("demo").innerHTML =
+    //xmlDoc.getElementsByTagName("mode")[0].childNodes[0].nodeValue;
+    
+    
+    //x = xmlDoc.getElementsByTagName("level")[0];
+    //y = x.getAttributeNode("label");
+    //txt = y.nodeValue + "---";
+    //document.getElementById("demo").innerHTML = txt;
+    
+    allLevels = xmlDoc.getElementsByTagName("level");
+    var txt = "";
+    
+    for (i=0; i<allLevels.length; i++) {
+        x = allLevels[i];
+        y = x.getAttributeNode("label");
+        txt += y.nodeValue + '<br>';
+    }
+    document.getElementById("demo").innerHTML = txt;
+    
+    
+    txt+="-------------------<br>";
+    
+    allLevels = xmlDoc.getElementsByTagName("topic");
+    for (i=0; i<allLevels.length; i++) {
+        x = allLevels[i];
+        y = x.getAttributeNode("label");
+        txt += y.nodeValue + '<br>';
+    }
+    document.getElementById("demo").innerHTML = txt;
+    
+
+    
+    
+    txt+="-------------------<br>";
+    
+    allLevels = xmlDoc.getElementsByTagName("idiom");
+    for (i=0; i<allLevels.length; i++) {
+        x = allLevels[i];
+        y = x.getAttributeNode("label");
+        txt += y.nodeValue + '<br>';
+    }
+    
+    document.getElementById("demo").innerHTML = txt;
+    
+}
+    
+</script>
+<div data-role="page" class="jqm-demos" data-quicklinks="true">
+
+<ul data-role="listview" data-filter="true" data-filter-placeholder="Search fruits..." data-inset="true">
+    <li><a href="#">Apple</a></li>
+    <li><a href="#">Banana</a></li>
+    <li><a href="#">Cherry</a></li>
+    <li><a href="#">Cranberry</a></li>
+    <li><a href="#">Grape</a></li>
+    <li><a href="#">Orange</a></li>
+</ul>
+</div>
+</body>
+</html>

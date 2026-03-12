@@ -1,0 +1,3107 @@
+﻿<?xml version="1.0"?>
+<aid>
+<level id="1" label="Basic Diatonic Harmony">
+	<topic id="1d" label="Cadences">
+		<idiom id="1da" label="PAC">
+			<instance id="1da01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da04MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da05MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da06MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da06MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da07MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da07MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da08MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1da08MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1db" label="IAC">
+			<instance id="1db01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db04MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db05MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1db05MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1dc" label="HC">
+			<instance id="1dc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dc02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dc02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dc03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dc03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dc04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dc04MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1dd" label="plagal cadence">
+			<instance id="1dd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dd01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dd02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1dd02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+	
+	<topic id="1a" label="V7 vs. V">
+		<idiom id="1aa" label="V7 - I or V7 - i">
+			<instance id="1aa01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1aa01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1aa02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1aa02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1aa03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1aa03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1ab" label="V - I or V - i">
+			<instance id="1ab01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ab01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ab02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ab02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ab03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ab03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="1b" label="V6/4 and vii°6">
+		<idiom id="1ba" label="V-E w/ V6/4 btw. I and I6 (or i and i6)">
+			<instance id="1ba01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ba01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ba02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ba02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1bb" label="V-E w/ vii()6 btw. I and I6 (or i and i6)">
+			<instance id="1bb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bb01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bb02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1bc" label="|| 10ths w/ vii()6 btw. I and I6 (or i and i6)">
+			<instance id="1bc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bc02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bc02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1bd" label="I6-IV-vii()6-I(6) (or i)">
+			<instance id="1bd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bd01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bd02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1bd02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1be" type="comparison" label="I6-IV-V-I (or i)">
+			<instance id="1be01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1be01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="1c" label="Inversions of V7">
+		<idiom id="1ca" label="V6/5 to I (or i) supporting 4^ - 3^ in sop">
+			<instance id="1ca01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1ca01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1cb" label="V4/3 to I or I6 (or i or i6), || 10ths">
+			<instance id="1cb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cb01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cb02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1cc" label="V4/2 to I6 (or i6) w/ rising fourth in sop">
+			<instance id="1cc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cc02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cc02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="1cd" label="|| 10ths w/ V4/3 btw. I and I6 (or i and i6)">
+			<instance id="1cd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cd01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cd02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="1cd02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+</level>
+
+<level id="2" label="Advanced Diatonic Harmony">
+	<topic id="2a" label="The ii chord, esp. vs. IV">
+		<idiom id="2aa" label="I-ii6-V7-I or i-ii()6-V7-i">
+			<instance id="2aa01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2aa01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2aa02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2aa02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2aa03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2aa03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2aa04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2aa04MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ab" label="I-IV-V7-I or i-iv-V7-i">
+			<instance id="2ab01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ab01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ab02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ab02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ab03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ab03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ac" label="I-ii-V7-I">
+			<instance id="2ac01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ac02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ac03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ac04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ad" label="V-E w/ ii-vii()6 btw. I and I6">
+			<instance id="2ad01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ad02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2b" label="IV6">
+		<idiom id="2ba" label="I-IV6-I6 or i-iv6-i6">
+			<instance id="2ba01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ba01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2bb" label="I-IV6-V or i-iv6-V">
+			<instance id="2bb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bb01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bb02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2bc" label="I-IV6-V6/5-I or i-IV6-V6/5-i">
+			<instance id="2bc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bc02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bc02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2bd" label="I-IV6-ii6-V-I or i-iv6-ii()6-V-i">
+			<instance id="2bd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bd01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bd02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bd02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2be" label="I-IV6-IV-V-I or i-iv6-iv-V-i">
+			<instance id="2be01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2be01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2bf" label="I-V-IV6-V6/5-I or i-V-IV6-V6/5-i">
+			<instance id="2bf01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bf01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2bg" label="I-IV6-V7-I or i-iv6-V7-i">
+			<instance id="2bg01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bg01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bg02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2bg02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2c" label="6/4 chords">
+		<idiom id="2ca" label="passing 6/4 expanding I or i w V-E">
+			<instance id="2ca01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ca01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ca02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ca02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2cb" label="passing 6/4 expanding ii w V-E">
+			<instance id="2cb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2cc" label="passing 6/4 expanding IV or iv w V-E">
+			<instance id="2cc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cc02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cc02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2cd" label="passing 6/4 expanding V7 w V-E">
+			<instance id="2cd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cd02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ce" label="neighboring 6/4 expanding I or i">
+			<instance id="2ce01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ce01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ce02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ce02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2cf" label="neighboring 6/4 expanding V">
+			<instance id="2cf01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cf01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cf02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cf02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2cg" label="cadential 6/4">
+			<instance id="2cg01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cg01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cg02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2cg02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2d" label="6/3 chords">
+		<idiom id="2da" label="passing 6/3 expanding I or i w V-E">
+			<instance id="2da01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2da01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2da02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2da02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2db" label="passing 6/3 expanding ii w V-E">
+			<instance id="2db01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2db02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2dc" label="passing 6/3 expanding V7 w V-E">
+			<instance id="2dc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2dc02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2e" label="vi">
+		<idiom id="2ea" label="DP segment starts w. vi or VI, then has bass and root motion down by 3rds">
+			<instance id="2ea01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ea02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ea03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ea03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ea04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ea04MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2eb" label="DP segment starts w. vi or VI, then has root motion down by 5ths">
+			<instance id="2eb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2eb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2eb03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2eb03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2eb04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2eb04MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ec" label="I-vi-V-I or i-VI-V-I">
+			<instance id="2ec01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ec01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ec02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ec02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ec03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ed" label="deceptive cadence">
+			<instance id="2ed01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ed01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ed02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ed02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ed03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ed03MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ee" label="I-vi-I6 or i-VI-i6">
+			<instance id="2ee01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ee01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ee02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ee02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ef" label="I-vi-V6(/5)-I">
+			<instance id="2ef01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ef02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2f" label="iii">
+		<idiom id="2fa" label="descending l.t. or subtonic supported by iii or III">
+			<instance id="2fa01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2fa01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2fb" label="DP starts with iii or III, then has root motion down by 5ths">
+			<instance id="2fb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2fb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2fc" label="I-IV6-iii or i-iv6-III">
+			<instance id="2fc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2fc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2fd" label="I-vi-iii or i-VI-III">
+			<instance id="2fd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2fd01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2fe" label="V4/2 to iii (or III) supporting rising fourth">
+			<instance id="2fe01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2fe01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ff" label="I-vii()6-iii or i-vii()6-III">
+			<instance id="2ff01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ff01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2g" label="v6 and V6">
+		<idiom id="2ga" label="I-V6-vi or i-v6-VI">
+			<instance id="2ga01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ga01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ga02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ga02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2gb" label="i-v6-iv6-V">
+			<instance id="2gb01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+			
+	<topic id="2h" label="VII">
+		<idiom id="2ha" label="i-VII-III">
+			<instance id="2ha01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ha02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2hb" label="i-VII6-III">
+			<instance id="2hb01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			</idiom>
+			
+			<idiom id="2hc" label="i-VII7-III">
+			<instance id="2hc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2hd" label="i-VIII-iv6-V">
+			<instance id="2hd01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2i" label="Sequences">
+		<idiom id="2ia" label="circle of fifths seq., desc., all root pos.">
+			<instance id="2ia01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ia01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ia02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ia02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ib" label="circle of fifths seq., desc., alternating root pos. and 1st inv.">
+			<instance id="2ib01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ib01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ib02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ib02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ic" label="circle of fifths seq., asc., all root pos. (seq. breaks bef. cadence)">
+			<instance id="2ic01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ic02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2id" label="5-6 seq., desc., all root pos.">
+			<instance id="2id01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2id01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2id02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2id02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ie" label="5-6 seq., desc., alternting root pos. and 1st inv.">
+			<instance id="2ie01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ie01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2if" label="5-6 seq., asc., all root pos.">
+			<instance id="2if01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2if02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ig" label="5-6 seq., asc., alternating root pos. and 1st inv.">
+			<instance id="2ig01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ig02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2j" label="ii7, IV7">
+		<idiom id="2ja" label="I-IV7-V-I or i-iv7-V-i">
+			<instance id="2ja01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ja01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2jb" label="I-IV6/5-V6/5-I or i-IV6/5-V6/5-i">
+			<instance id="2jb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jb01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2jc" label="I-ii7-V7-I  or i-ii(/)7-V7-I">
+			<instance id="2jc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jc02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jc02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2jd" label="I-ii6/5-V-I  or i-ii(/)6/5-V-I">
+			<instance id="2jd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jd01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jd02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jd02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2je" label="I-ii4/3-V7-I  or i-ii(/)4/3-V7-I">
+			<instance id="2je01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2je01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2je02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2je02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2jf" label="I-ii4/2-V6/5-I  or i-ii(/)4/2-V6/5-I">
+			<instance id="2jf01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jf01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jf02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jf02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2jg" label="plagal cadence w. ii6/5 or ii(/)6/5">
+			<instance id="2jg01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jg01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jg02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2jg02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2k" label="Other 7th chords">
+		<idiom id="2ka" label="circle of fifths seq., desc., w/ 7th chords">
+			<instance id="2ka01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2ka01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2kb" label="DP segment starts w/ vi7 or VI7, then 7th chords w/ roots desc. by 5th">
+			<instance id="2kb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2kb01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2kc" label="DP segment starts w/ iii7 or III7, then 7th chords w/ roots desc. by 5th">
+			<instance id="2kc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2kc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+		
+	<topic id="2l" label="vii°7">
+		<idiom id="2la" label="vii(/)7-I or vii()7-i">
+			<instance id="2la01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2la01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2lb" label="vii()7-I">
+			<instance id="2lb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2lc" label="vii(/)6/5-I6 or vii()6/5-i6">
+			<instance id="2lc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2lc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2ld" label="vii()6/5-I">
+			<instance id="2ld01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2le" label="vii(/)4/3-I6 or vii()4/3-i6">
+			<instance id="2le01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2le01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2lf" label="vii()4/3-I6">
+			<instance id="2lf01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+		
+		<idiom id="2lg" label="vii(/)4/2-V7 or vii()4/2-V7">
+			<instance id="2lg01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="2lg01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+</level>
+
+<level id="3" label="Basic Chromatic Harmony">
+	<topic id="3a" label="Secondary chords">
+		<idiom id="3aa" label="V-E expanding ii w/ 2ndary V6/4">
+			<instance id="3aa01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3aa02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ab" label="V-E expanding IV or iv w/ 2ndary V6/4">
+			<instance id="3ab01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ab02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ac" label="V-E expanding V w/ 2ndary V6/4">
+			<instance id="3ac01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ac02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ad" label="V-E expanding ii w/ 2ndary vii()6/3">
+			<instance id="3ad01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ad02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ae" label="V-E expanding IV or iv w/ 2ndary vii()6/3">
+			<instance id="3ae01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ae01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ae02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ae02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3af" label="V-E expanding V w/ 2ndary vii()6/3">
+			<instance id="3af01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3af02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ag" label="I-V/ii-ii-V-I">
+			<instance id="3ag01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ag02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ah" label="chromaticized deceptive cadence">
+			<instance id="3ah01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ah02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ah03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ai" label="I-V/vi-vi-ii-V7-I">
+			<instance id="3ai01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3aj" label="I-V/vi-V/ii-ii-V7-I">
+			<instance id="3aj01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ak" label="I-V/vi-V/ii-V/V-V7-I">
+			<instance id="3ak01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3al" label="I-vii(/)7/V-V-I or i-vii()7/V-V-i">
+			<instance id="3al01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3al01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3am" label="I-V7/V-V7-I or i-V7/V-V7-i">
+			<instance id="3am01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3am01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3an" label="I-V65/V-V-I or i-V65/V-V-i">
+			<instance id="3an01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3an01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3an02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3an02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ao" label="I-V43/V-V7-I or i-V43/V-V7-i">
+			<instance id="3ao01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ao01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ap" label="I-V42/V-V65-I or i-V42/V-V65-i">
+			<instance id="3ap01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ap01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3aq" label="I-IV7-vii(/)7-V7/vi-vi7-V7/V-V7-I">
+			<instance id="3aq01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ar" label="I-IV7-vii(/)7-V7/vi-V7/ii-V7/V-V7-I">
+			<instance id="3ar01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+			
+	<topic id="3b" label="Modulation">
+		<idiom id="3ba" label="modulation in major to V">
+			<instance id="3ba01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ba02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ba03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3bb" label="modulation in major to vi">
+			<instance id="3bb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3bc" label="modulation in major to ii">
+			<instance id="3bc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3bd" label="modulation in major to IV">
+			<instance id="3bd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3be" label="modulation in major to iii">
+			<instance id="3be01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3bf" label="modulation in minor to III">
+			<instance id="3bf01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3bg" label="modulation in minor to VII">
+			<instance id="3bg01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3bh" label="modulation in minor to v">
+			<instance id="3bh01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3bi" label="modulation in minor to iv">
+			<instance id="3bi01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3bj" label="modulation in minor to VI">
+			<instance id="3bj01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+			
+	<topic id="3c" label="Mixture">
+		<idiom id="3ca" label="I-ii()6-V7-I">
+			<instance id="3ca01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ca02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ca03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ca04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3cb" label="I-iv-V7-I">
+			<instance id="3cb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3cb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3cb03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3cc" label="I-ii(/)7-V7-I">
+			<instance id="3cc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3cc02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3cd" label="I-ii(/)6/5-V7-I">
+			<instance id="3cd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3cd02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ce" label="I-ii(/)4/3-V7-I">
+			<instance id="3ce01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ce02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3cf" label="DC with borrowed submediant">
+			<instance id="3cf01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3cf02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3cf03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3cg" label="plagal cadence w. borrowed iv">
+			<instance id="3cg01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3cg02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ch" label="plagal cadence w. borrowed ii(/)6/5">
+			<instance id="3ch01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ch02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ch03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ch04MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ci" label="I-ii(/)4/2-V6/5-I">
+			<instance id="3ci01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ci02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+			
+	<topic id="3d" label="Neapolitan">
+		<idiom id="3da" label="i-VI-bII6-V-i">
+			<instance id="3da01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3da02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3db" label="i-bII6-V6/4-V5/3-i">
+			<instance id="3db01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3db02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3dc" label="i-bII6-vii()7/V-V(7)-i">
+			<instance id="3dc01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3dc02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3dd" label="i-VI-bII6-V4/2-i6">
+			<instance id="3dd01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3dd02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3de" label="plagal cadence w. bII6">
+			<instance id="3de01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3de01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3de02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3de02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3df" type="comparison" label="i-VI-ii()6-V-i">
+			<instance id="3df01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3df02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3dg" type="comparison" label="i-ii()6-V6/4-V5/3-i">
+			<instance id="3dg01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3dg02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3dh" type="comparison" label="i-ii()6-vii()7/V-V(7)-i">
+			<instance id="3dh01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3dh02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3di" type="comparison" label="i-VI-ii()6-V4/2-i6">
+			<instance id="3di01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3di02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+			
+	<topic id="3e" label="Augmented 6th Chords">
+		<idiom id="3ea" label="i-It+6-V">
+			<instance id="3ea01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ea02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3eb" label="i-Ger+6/5-V6/4-V5/3">
+			<instance id="3eb01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3eb02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ec" label="i-Fr+6/4/3-V">
+			<instance id="3ec01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+			<instance id="3ec02MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ed" label="i-iv6-It+6-V">
+			<instance id="3ed01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ee" label="i-V43/V-Fr+6/4/3-V">
+			<instance id="3ee01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ef" label="i-VI-Ger+6/5-V6/4-5/3">
+			<instance id="3ef01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3eg" label="i-iv-i6/4-Ger+6/5-V6/4-5/3">
+			<instance id="3eg01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3eh" label="i-vii()7/V-i6/4- Ger+6/5-V6/4-5/3">
+			<instance id="3eh01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ei" label="i-V6-V42/iv-IV6-It+6-V">
+			<instance id="3ei01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+			
+		<idiom id="3ej" label="i-VI-ii()6-V-Fr+6/4/3-V">
+			<instance id="3ej01MinCn">
+			   <mode>minor</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	</topic>
+</level>
+
+<level id="4" label="Advanced Chromatic Harmony">
+	<topic id="4a" label="the Neapolitan in major">
+		<idiom id="4aa" label="I-vi-bII6-V-I">
+			<instance id="4aa01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4aa02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4ab" label="I-bII6-V6/4-V5/3-I">
+		
+			<instance id="4ab01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ab02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4ac" label="I-bII6-vii(/)7/V-V(7)-I">
+		
+			<instance id="4ac01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ac02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4ad" label="I-vi-bII6-V4/2-I6">
+		
+			<instance id="4ad01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ad02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+		</idiom>
+	
+
+		<idiom type="comparison" id="4ae" label="I-vi-ii()6-V-I">
+		
+			<instance id="4ae01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ae02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4af" label="I-ii()6-V6/4-V5/3-I">
+		
+			<instance id="4af01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4af02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4ag" label="I-ii()6-vii(/)7/V-V(7)-I">
+		
+			<instance id="4ag01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ag02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4ah" label="I-vi-ii()6-V4/2-I6">
+		
+			<instance id="4ah01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ah02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+					
+		<idiom type="comparison" id="4ai" label="I-vi-ii6-V-I">
+		
+			<instance id="4ai01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ai02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4aj" label="I-ii6-V6/4-V5/3-I">
+		
+			<instance id="4aj01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4aj02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4ak" label="I-ii6-vii(/)7/V-V(7)-I">
+		
+			<instance id="4ak01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ak02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4al" label="I-vi-ii6-V4/2-I6">
+		
+			<instance id="4al01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4al02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		
+	</topic>
+	
+	<topic id="4d" label="Advanced Uses of Augmented 6th Chords">
+			
+		<idiom id="4da" label="i-Ger7-V6/4-V7-i">
+		
+			<instance id="4da01MinCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4db" label="V-E with Ger+6/5 and Ger7">
+		
+			<instance id="4db01MinCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4db02MinCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4dc" label="bVI adds a seventh and becomes Ger+6/5">
+		
+			<instance id="4dc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4dd" label="i-vii()7/V-V6/4-V7-i">
+		
+			<instance id="4dd01MinCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		
+		<idiom type="comparison" id="4de" label="bVI4/2 as V4/2 / bII">
+		
+			<instance id="4de01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+
+		
+		
+	</topic>
+	
+	<topic id="4e" label="9ths, 11ths, and 13ths">
+			
+		<idiom id="4ea" label="V9/7-I">
+		
+			<instance id="4ea01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4eb" label="Vb9/7-I">
+		
+			<instance id="4eb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4ec" label="V7/6/5-I">
+		
+			<instance id="4ec01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4ed" label="Vb7/6/5-I">
+		
+			<instance id="4ed01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4ee" label="vii(/)7-I">
+		
+			<instance id="4ee01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4ef" label="vii()7-I">
+		
+			<instance id="4ef01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4eg" label="V11/7/5-I">
+		
+			<instance id="4eg01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4eh" label="V11/9/5-I">
+		
+			<instance id="4eh01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4ei" label="V11/b9/5-I">
+		
+			<instance id="4ei01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4ej" label="V11/9/7-I">
+		
+			<instance id="4ej01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4ek" label="V11/b9/7-I">
+		
+			<instance id="4ek01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4el" label="V13/7/3-I or i">
+		
+			<instance id="4el01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4el01MinCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4em" label="IV-I">
+		
+			<instance id="4em01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4en" label="iv-I">
+		
+			<instance id="4en01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		
+	</topic>
+	
+	<topic id="4f" label="V+, Vb5">
+			
+		<idiom id="4fa" label="V+-I">
+		
+			<instance id="4fa01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4fa02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4fa03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4fb" label="V+7-I">
+		
+			<instance id="4fb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4fb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4fc" label="Vb5-i">
+		
+			<instance id="4fc01MinCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4fd" label="V7/b5-i">
+		
+			<instance id="4fd01MinCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4fd02MinCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		
+	</topic>
+	
+	<topic id="4g" label="CT°7">
+			
+		<idiom id="4ga" label="CT()7-I">
+		
+			<instance id="4ga01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ga02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ga03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4gb" label="CT()7 as a neighbor chord">
+		
+			<instance id="4gb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4gb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4gc" label="|| 10's w CT()7">
+		
+			<instance id="4gc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		
+	</topic>
+	
+	<topic id="4h" label="CT+6">
+			
+		<idiom id="4ha" label="CT+6-I">
+		
+			<instance id="4ha01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ha02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4ha03MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4hb" label="CT+6 as a neighbor chord">
+		
+			<instance id="4hb01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+			<instance id="4hb02MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom id="4hc" label="I-FrV4/3-I">
+		
+			<instance id="4hc01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+			
+		</idiom>
+		<idiom type="comparison" id="4hd" label="I-V4/3-I">
+		
+			<instance id="4hd01MajCn">
+			   <mode>major</mode>
+			   <key>Cn</key>
+			   <inst>piano</inst>
+			</instance>
+
+		</idiom>
+			
+	</topic>
+</level>
+</aid>

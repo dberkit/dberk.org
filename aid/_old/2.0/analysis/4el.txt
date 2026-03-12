@@ -1,0 +1,1 @@
+﻿<p><span class='num'>VM</span><span class='txt'><sub>/</sub></span><span class='num'>7</span><span class='txt'><sub>/</sub></span><span class='num'>3 ÷ </span><span class='symboltxt'>I</span><span class='txt'> (or</span><span class='symboltxt'>i</span><span class='txt'>)</span></p>

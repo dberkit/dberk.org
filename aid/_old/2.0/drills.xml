@@ -1,0 +1,812 @@
+﻿<?xml version="1.0"?>
+<drills>
+
+<topic id="1d">
+	<drill name="All">
+		<idiom>1da</idiom>
+		<idiom>1db</idiom>
+		<idiom>1dc</idiom>
+		<idiom>1dd</idiom>
+	</drill>
+	<drill name="Authentic cadences">
+		<idiom>1da</idiom>
+		<idiom>1db</idiom>
+	</drill>
+	<drill name="Authentic and half cadences">
+		<idiom>1da</idiom>
+		<idiom>1db</idiom>
+		<idiom>1dc</idiom>
+	</drill>
+</topic>
+
+
+<topic id="1a">
+	<drill name="All">
+		<idiom>1aa</idiom>
+		<idiom>1ab</idiom>
+	</drill>
+</topic>
+
+
+<topic id="1b">
+	<drill name="All">
+		<idiom>1ba</idiom>
+		<idiom>1bb</idiom>
+		<idiom>1bc</idiom>
+		<idiom>1bd</idiom>
+	</drill>
+	<drill name="Voice exchanges">
+		<idiom>1ba</idiom>
+		<idiom>1bb</idiom>
+	</drill>
+	<drill name="Uses of vii°6">
+		<idiom>1bb</idiom>
+		<idiom>1bc</idiom>
+	</drill>
+	<drill name="vii°6 replacing V in cadential progression">
+		<idiom>1bd</idiom>
+		<idiom>1be</idiom>
+	</drill>
+</topic>
+
+<topic id ="1c">
+	<drill name="All">
+		<idiom>1ca</idiom>
+		<idiom>1cb</idiom>
+		<idiom>1cc</idiom>
+		<idiom>1cd</idiom>
+	</drill>
+	<drill name="All inversions of V7">
+		<idiom>1aa</idiom>
+		<idiom>1ca</idiom>
+		<idiom>1cb</idiom>
+		<idiom>1cc</idiom>
+	</drill>
+	<drill name="Progressions using parallel tenths [vii°6 vs. V6/4]">
+		<idiom>1cd</idiom>
+		<idiom>1bc</idiom>
+	</drill>
+</topic>
+
+<topic id ="2a">
+	<drill name="All">
+		<idiom>2aa</idiom>
+		<idiom>2ab</idiom>
+		<idiom>2ac</idiom>
+		<idiom>2ad</idiom>
+	</drill>
+	<drill name="ii, ii6 vs. IV">
+		<idiom>2aa</idiom>
+		<idiom>2ab</idiom>
+		<idiom>2ac</idiom>
+	</drill>
+	<drill name="ii6 vs. IV">
+		<idiom>2aa</idiom>
+		<idiom>2ab</idiom>
+	</drill>
+	<drill name="Voice exchanges (expanding I, expanding ii)">
+		<idiom>1ba</idiom>
+		<idiom>1bb</idiom>
+		<idiom>2ad</idiom>
+	</drill>
+</topic>
+
+<topic id ="2b">
+	<drill name="All">
+		<idiom>2ba</idiom>
+		<idiom>2bb</idiom>
+		<idiom>2bc</idiom>
+		<idiom>2bd</idiom>
+		<idiom>2be</idiom>
+		<idiom>2bf</idiom>
+		<idiom>2bg</idiom>
+	</drill>
+	<drill name="Parallel and antiparallel 10ths">
+		<idiom>1cd</idiom>
+		<idiom>1bc</idiom>
+		<idiom>2ba</idiom>
+	</drill>
+	<drill name="Approaching half cadences">
+		<idiom>1dc</idiom>
+		<idiom>2bb</idiom>
+	</drill>
+</topic>
+
+<topic id ="2c">
+	<drill name="All">
+		<idiom>2ca</idiom>
+		<idiom>2cb</idiom>
+		<idiom>2cc</idiom>
+		<idiom>2cd</idiom>
+		<idiom>2ce</idiom>
+		<idiom>2cf</idiom>
+		<idiom>2cg</idiom>
+	</drill>
+	<drill name="Voice exchanges using 6/4 chords">
+		<idiom>2ca</idiom>
+		<idiom>2cb</idiom>
+		<idiom>2cc</idiom>
+		<idiom>2cd</idiom>
+	</drill>
+	<drill name="All voice exchanges">
+		<idiom>1bb</idiom>
+		<idiom>2ad</idiom>
+		<idiom>2ca</idiom>
+		<idiom>2cb</idiom>
+		<idiom>2cc</idiom>
+		<idiom>2cd</idiom>
+	</drill>
+</topic>
+
+<topic id ="2d">
+	<drill name="All">
+		<idiom>2da</idiom>
+		<idiom>2db</idiom>
+		<idiom>2dc</idiom>
+	</drill>
+	<drill name="All voice exchanges">
+		<idiom>2ad</idiom>
+		<idiom>2ca</idiom>
+		<idiom>2cb</idiom>
+		<idiom>2cc</idiom>
+		<idiom>2cd</idiom>
+		<idiom>2da</idiom>
+		<idiom>2db</idiom>
+		<idiom>2dc</idiom>
+	</drill>
+</topic>
+
+<topic id ="2e">
+	<drill name="All">
+		<idiom>2ea</idiom>
+		<idiom>2eb</idiom>
+		<idiom>2ec</idiom>
+		<idiom>2ed</idiom>
+		<idiom>2ee</idiom>
+		<idiom>2ef</idiom>
+	</drill>
+	<drill name="vi as DP">
+		<idiom>2ea</idiom>
+		<idiom>2eb</idiom>
+		<idiom>2ec</idiom>
+	</drill>
+	<drill name="DC vs AC">
+		<idiom>1da</idiom>
+		<idiom>1db</idiom>
+		<idiom>2ed</idiom>
+	</drill>
+	<drill name="All cadences so far">
+		<idiom>1da</idiom>
+		<idiom>1db</idiom>
+		<idiom>1dc</idiom>
+		<idiom>1dd</idiom>
+		<idiom>2ed</idiom>
+	</drill>
+	<drill name="Progressions with scale degrees 1-6-3 in the bass (vi vs. IV6)">
+		<idiom>2ba</idiom>
+		<idiom>2ee</idiom>
+	</drill>
+	<drill name="Progressions with scale degrees 1-6-5 in the bass (vi vs. IV6)">
+		<idiom>2bg</idiom>
+		<idiom>2ec</idiom>
+	</drill>
+	<drill name="Progressions with scale degrees 1-6-7 in the bass (vi vs. IV6)">
+		<idiom>2bc</idiom>
+		<idiom>2ef</idiom>
+	</drill>
+	
+</topic>
+
+<topic id ="2f">
+	<drill name="All">
+		<idiom>2fa</idiom>
+		<idiom>2fb</idiom>
+		<idiom>2fc</idiom>
+		<idiom>2fd</idiom>
+		<idiom>2fe</idiom>
+		<idiom>2ff</idiom>
+	</drill>
+	<drill name="Progressions in which DP uses circle of fifths">
+		<idiom>2eb</idiom>
+		<idiom>2fb</idiom>
+	</drill>
+	<drill name="iii as substitute for I6">
+		<idiom>2ba</idiom>
+		<idiom>2ee</idiom>
+		<idiom>1cc</idiom>
+		<idiom>2da</idiom>
+		<idiom>2fc</idiom>
+		<idiom>2fd</idiom>
+		<idiom>2fe</idiom>
+		<idiom>2ff</idiom>
+	</drill>
+</topic>
+
+<topic id ="2g">
+	<drill name="All">
+		<idiom>2ga</idiom>
+		<idiom>2gb</idiom>
+	</drill>
+	<drill name="Approaching Phrygian HC's">
+		<idiom>2bb</idiom>
+		<idiom>2gb</idiom>
+	</drill>
+	<drill name="Approaching HC's">
+		<idiom>1dc</idiom>
+		<idiom>2bb</idiom>
+		<idiom>2gb</idiom>
+	</drill>
+</topic>
+
+<topic id ="2h">
+	<drill name="All">
+		<idiom>2ha</idiom>
+		<idiom>2hb</idiom>
+		<idiom>2hc</idiom>
+		<idiom>2hd</idiom>
+	</drill>
+	<drill name="Moving from i to III">
+		<idiom>2fc</idiom>
+		<idiom>2fd</idiom>
+		<idiom>2ff</idiom>
+		<idiom>2ha</idiom>
+		<idiom>2hb</idiom>
+		<idiom>2hc</idiom>
+	</drill>
+	<drill name="vii°6 vs. VII6">
+		<idiom>2ff</idiom>
+		<idiom>2hb</idiom>
+	</drill>
+	<drill name="Variants of the Champagne progression (I-IV6-I6)">
+		<idiom>2ba</idiom>
+		<idiom>2ee</idiom>
+		<idiom>2fc</idiom>
+		<idiom>2fd</idiom>
+		<idiom>2ha</idiom>
+	</drill>
+	<drill name="Approaching Phrygian HC's">
+		<idiom>2bb</idiom>
+		<idiom>2gb</idiom>
+		<idiom>2hd</idiom>
+	</drill>
+	<drill name="Approaching HC's">
+		<idiom>1dc</idiom>
+		<idiom>2bb</idiom>
+		<idiom>2gb</idiom>
+		<idiom>2hd</idiom>
+	</drill>
+</topic>
+
+<topic id ="2i">
+	<drill name="All">
+		<idiom>2ia</idiom>
+		<idiom>2ib</idiom>
+		<idiom>2ic</idiom>
+		<idiom>2id</idiom>
+		<idiom>2ie</idiom>
+		<idiom>2if</idiom>
+		<idiom>2ig</idiom>
+	</drill>
+	<drill name="Descending sequences">
+		<idiom>2ia</idiom>
+		<idiom>2ib</idiom>
+		<idiom>2id</idiom>
+		<idiom>2ie</idiom>
+	</drill>
+	<drill name="Ascending sequences">
+		<idiom>2ic</idiom>
+		<idiom>2if</idiom>
+		<idiom>2ig</idiom>
+	</drill>
+	<drill name="Descending circle of 5ths">
+		<idiom>2ia</idiom>
+		<idiom>2ib</idiom>
+	</drill>
+	<drill name="5-6 Descending">
+		<idiom>2id</idiom>
+		<idiom>2ie</idiom>
+	</drill>
+	<drill name="5-6 Ascending">
+		<idiom>2if</idiom>
+		<idiom>2ig</idiom>
+	</drill>
+	<drill name="Complete vs. incomplete circle of 5ths">
+		<idiom>2eb</idiom>
+		<idiom>2fb</idiom>
+		<idiom>2ia</idiom>
+		<idiom>2ib</idiom>
+	</drill>
+</topic>
+
+<topic id ="2j">
+	<drill name="All">
+		<idiom>2ja</idiom>
+		<idiom>2jb</idiom>
+		<idiom>2jc</idiom>
+		<idiom>2jd</idiom>
+		<idiom>2je</idiom>
+		<idiom>2jf</idiom>
+		<idiom>2jg</idiom>
+	</drill>
+	<drill name="IV vs. IV7">
+		<idiom>2ab</idiom>
+		<idiom>2ja</idiom>
+	</drill>
+	<drill name="ii7 vs. ii">
+		<idiom>2ac</idiom>
+		<idiom>2jc</idiom>
+	</drill>
+	<drill name="ii6/5 vs. ii6">
+		<idiom>2aa</idiom>
+		<idiom>2jd</idiom>
+	</drill>
+	<drill name="IV, IV7, ii7, ii, ii6/5, ii6">
+		<idiom>2ab</idiom>
+		<idiom>2ja</idiom>
+		<idiom>2ac</idiom>
+		<idiom>2jc</idiom>
+		<idiom>2aa</idiom>
+		<idiom>2jd</idiom>
+	</drill>
+	<drill name="ii4/3 vs. IV6, vi">
+		<idiom>2bg</idiom>
+		<idiom>2ec</idiom>
+		<idiom>2je</idiom>
+	</drill>
+	<drill name="Plagal cadences">
+		<idiom>1dd</idiom>
+		<idiom>2jg</idiom>
+	</drill>
+</topic>
+
+<topic id ="2k">
+	<drill name="All">
+		<idiom>2ka</idiom>
+		<idiom>2kb</idiom>
+		<idiom>2kc</idiom>
+	</drill>
+	<drill name="With and without sevenths">
+		<idiom>2ia</idiom>
+		<idiom>2ka</idiom>
+		<idiom>2eb</idiom>
+		<idiom>2fb</idiom>
+		<idiom>2kc</idiom>
+		<idiom>2kc</idiom>
+	</drill>
+	<drill name="Circle of 5ths progressions">
+		<idiom>2eb</idiom>
+		<idiom>2fb</idiom>
+		<idiom>2ia</idiom>
+		<idiom>2ib</idiom>
+		<idiom>2ka</idiom>
+		<idiom>2kb</idiom>
+		<idiom>2kc</idiom>
+	</drill>
+</topic>
+
+<topic id ="2l">
+	<drill name="All">
+		<idiom>2la</idiom>
+		<idiom>2lb</idiom>
+		<idiom>2lc</idiom>
+		<idiom>2ld</idiom>
+		<idiom>2le</idiom>
+		<idiom>2lf</idiom>
+		<idiom>2lg</idiom>
+	</drill>
+	<drill name="Diatonic vii7's">
+		<idiom>2la</idiom>
+		<idiom>2lc</idiom>
+		<idiom>2le</idiom>
+		<idiom>2lg</idiom>
+	</drill>
+	<drill name="Diatonic vs. borrowed vii7's">
+		<idiom>2la</idiom>
+		<idiom>2lb</idiom>
+		<idiom>2lc</idiom>
+		<idiom>2ld</idiom>
+		<idiom>2le</idiom>
+		<idiom>2lf</idiom>
+	</drill>
+	<drill name="Diatonic vii7 compared with inversions of V7">
+		<idiom>1ca</idiom>
+		<idiom>1cb</idiom>
+		<idiom>1cc</idiom>
+		<idiom>2la</idiom>
+		<idiom>2lc</idiom>
+		<idiom>2le</idiom>
+	</drill>
+	<drill name="Diatonic and borrowed vii7 compared with inversions of V7">
+		<idiom>1ca</idiom>
+		<idiom>1cb</idiom>
+		<idiom>1cc</idiom>
+		<idiom>2la</idiom>
+		<idiom>2lb</idiom>
+		<idiom>2lc</idiom>
+		<idiom>2ld</idiom>
+		<idiom>2le</idiom>
+		<idiom>2lf</idiom>
+	</drill>
+</topic>
+
+<topic id ="3a">
+	<drill name="All">
+		<idiom>3aa</idiom>
+		<idiom>3ab</idiom>
+		<idiom>3ac</idiom>
+		<idiom>3ad</idiom>
+		<idiom>3ae</idiom>
+		<idiom>3af</idiom>
+		<idiom>3ag</idiom>
+		<idiom>3ah</idiom>
+		<idiom>3ai</idiom>
+		<idiom>3aj</idiom>
+		<idiom>3ak</idiom>
+		<idiom>3al</idiom>
+		<idiom>3am</idiom>
+		<idiom>3an</idiom>
+		<idiom>3ao</idiom>
+		<idiom>3ap</idiom>
+		<idiom>3aq</idiom>
+		<idiom>3ar</idiom>
+	</drill>
+	<drill name="Secondary vs. diatonic passing chords">
+		<idiom>2ca</idiom>
+		<idiom>2cb</idiom>
+		<idiom>2cc</idiom>
+		<idiom>2cd</idiom>
+		<idiom>2da</idiom>
+		<idiom>2db</idiom>
+		<idiom>2dc</idiom>
+		<idiom>3aa</idiom>
+		<idiom>3ab</idiom>
+		<idiom>3ac</idiom>
+		<idiom>3ad</idiom>
+		<idiom>3ae</idiom>
+		<idiom>3af</idiom>
+	</drill>
+	<drill name="V/ii vs. vi">
+		<idiom>2eb</idiom>
+		<idiom>3ag</idiom>
+	</drill>
+	<drill name="Diatonic vs. chromatic DC">
+		<idiom>2ed</idiom>
+		<idiom>3ah</idiom>
+	</drill>
+	<drill name="Circle of 5ths progressions with and without secondary chords">
+		<idiom>2eb</idiom>
+		<idiom>2fb</idiom>
+		<idiom>2ia</idiom>
+		<idiom>2ib</idiom>
+		<idiom>2ka</idiom>
+		<idiom>2kb</idiom>
+		<idiom>2kc</idiom>
+		<idiom>3ai</idiom>
+		<idiom>3aj</idiom>
+		<idiom>3ak</idiom>
+		<idiom>3aq</idiom>
+		<idiom>3ar</idiom>
+	</drill>
+	<drill name="Applied chords to V vs. inversions of IV and ii">
+		<idiom>2aa</idiom>
+		<idiom>2ab</idiom>
+		<idiom>2ac</idiom>
+		<idiom>2bg</idiom>
+		<idiom>2ja</idiom>
+		<idiom>2jc</idiom>
+		<idiom>2jd</idiom>
+		<idiom>2je</idiom>
+		<idiom>2jf</idiom>
+		<idiom>3al</idiom>
+		<idiom>3am</idiom>
+		<idiom>3an</idiom>
+		<idiom>3ao</idiom>
+		<idiom>3ap</idiom>
+	</drill>
+</topic>
+
+<topic id ="3b">
+	<drill name="All">
+		<idiom>3ba</idiom>
+		<idiom>3bb</idiom>
+		<idiom>3bc</idiom>
+		<idiom>3bd</idiom>
+		<idiom>3be</idiom>
+		<idiom>3bf</idiom>
+		<idiom>3bg</idiom>
+		<idiom>3bh</idiom>
+		<idiom>3bi</idiom>
+		<idiom>3bj</idiom>
+	</drill>
+</topic>
+
+
+<topic id ="3c">
+	<drill name="All">
+		<idiom>3ca</idiom>
+		<idiom>3cb</idiom>
+		<idiom>3cc</idiom>
+		<idiom>3cd</idiom>
+		<idiom>3ce</idiom>
+		<idiom>3cf</idiom>
+		<idiom>3cg</idiom>
+		<idiom>3ch</idiom>
+		<idiom>3ci</idiom>
+	</drill>
+	<drill name="Borrowed vs. diatonic inversions of IV and ii w. scale degrees 4 and 2 in the bass">
+		<idiom>2aa</idiom>
+		<idiom>2ab</idiom>
+		<idiom>2ac</idiom>
+		<idiom>2ja</idiom>
+		<idiom>2jc</idiom>
+		<idiom>2jd</idiom>
+		<idiom>3ca</idiom>
+		<idiom>3cb</idiom>
+		<idiom>3cc</idiom>
+		<idiom>3cd</idiom>
+	</drill>
+	<drill name="Borrowed vs. diatonic inversions of IV and ii w. scale degrees 6 and 1 in the bass">
+		<idiom>2bc</idiom>
+		<idiom>2bg</idiom>
+		<idiom>2jb</idiom>
+		<idiom>2je</idiom>
+		<idiom>2jf</idiom>
+		<idiom>3ce</idiom>
+		<idiom>3ci</idiom>
+	</drill>
+	<drill name="Diatonic inversions of IV and ii vs. borrowed chords and applied chords to V, scale degrees 4 and 2 in the bass">
+		<idiom>2aa</idiom>
+		<idiom>2ab</idiom>
+		<idiom>2ac</idiom>
+		<idiom>2ja</idiom>
+		<idiom>2jc</idiom>
+		<idiom>2jd</idiom>
+		<idiom>3al</idiom>
+		<idiom>3am</idiom>
+		<idiom>3an</idiom>
+		<idiom>3ca</idiom>
+		<idiom>3cb</idiom>
+		<idiom>3cc</idiom>
+		<idiom>3cd</idiom>
+	</drill>
+	<drill name="Diatonic inversions of IV and ii vs. borrowed chords and applied chords to V, scale degrees 6 and 1 in the bass">
+		<idiom>2bc</idiom>
+		<idiom>2bg</idiom>
+		<idiom>2jb</idiom>
+		<idiom>2je</idiom>
+		<idiom>2jf</idiom>
+		<idiom>3ao</idiom>
+		<idiom>3ap</idiom>
+		<idiom>3ce</idiom>
+		<idiom>3ci</idiom>
+	</drill>
+	<drill name="Diatonic and mixed DC's">
+		<idiom>2ed</idiom>
+		<idiom>3cf</idiom>
+	</drill>
+	<drill name="All DC's">
+		<idiom>2ed</idiom>
+		<idiom>3ah</idiom>
+		<idiom>3cf</idiom>
+	</drill>
+	<drill name="Diatonic and mixed plagal cadences">
+		<idiom>1dd</idiom>
+		<idiom>2jg</idiom>
+		<idiom>3cg</idiom>
+		<idiom>3ch</idiom>
+	</drill>
+</topic>
+
+<topic id ="3d">
+	<drill name="All">
+		<idiom>3da</idiom>
+		<idiom>3db</idiom>
+		<idiom>3dc</idiom>
+		<idiom>3dd</idiom>
+		<idiom>3de</idiom>
+	</drill>
+	<drill name="bII6 vs. ii°6">
+		<idiom>3da</idiom>
+		<idiom>3db</idiom>
+		<idiom>3dc</idiom>
+		<idiom>3dd</idiom>
+		<idiom>3df</idiom>
+		<idiom>3dg</idiom>
+		<idiom>3dh</idiom>
+		<idiom>3di</idiom>
+	</drill>
+	<drill name="Diatonic vs. bII6 plagal cadences">
+		<idiom>1dd</idiom>
+		<idiom>2jg</idiom>
+		<idiom>3de</idiom>
+	</drill>
+	<drill name="All plagal cadences">
+		<idiom>1dd</idiom>
+		<idiom>2jg</idiom>
+		<idiom>3cg</idiom>
+		<idiom>3ch</idiom>
+		<idiom>3de</idiom>
+	</drill>
+</topic>
+
+<topic id ="3e">
+	<drill name="All">
+		<idiom>3ea</idiom>
+		<idiom>3eb</idiom>
+		<idiom>3ec</idiom>
+		<idiom>3ed</idiom>
+		<idiom>3ee</idiom>
+		<idiom>3ef</idiom>
+		<idiom>3eg</idiom>
+		<idiom>3eh</idiom>
+		<idiom>3ei</idiom>
+		<idiom>3ej</idiom>
+	</drill>
+	<drill name="Shorter progressions: i-[+6]-V">
+		<idiom>3ea</idiom>
+		<idiom>3eb</idiom>
+		<idiom>3ec</idiom>
+	</drill>
+	<drill name="Longer progressions">
+		<idiom>3ed</idiom>
+		<idiom>3ee</idiom>
+		<idiom>3ef</idiom>
+		<idiom>3eg</idiom>
+		<idiom>3eh</idiom>
+		<idiom>3ei</idiom>
+		<idiom>3ej</idiom>
+	</drill>
+</topic>
+
+
+<topic id ="4a">
+	<drill name="Idioms using bII6 in major">
+		<idiom>4aa</idiom>
+		<idiom>4ab</idiom>
+		<idiom>4ac</idiom>
+		<idiom>4ad</idiom>
+	</drill>
+	<drill name="Comparison of bII6, ii°6, ii6">
+		<idiom>4aa</idiom>
+		<idiom>4ab</idiom>
+		<idiom>4ac</idiom>
+		<idiom>4ad</idiom>
+		<idiom>4ae</idiom>
+		<idiom>4af</idiom>
+		<idiom>4ag</idiom>
+		<idiom>4ah</idiom>
+		<idiom>4ai</idiom>
+		<idiom>4aj</idiom>
+		<idiom>4ak</idiom>
+		<idiom>4al</idiom>
+	</drill>
+</topic>
+
+
+<topic id ="4d">
+	<drill name="All">
+		<idiom>4da</idiom>
+		<idiom>4db</idiom>
+		<idiom>4dc</idiom>
+		<idiom>4dd</idiom>
+		<idiom>4de</idiom>
+	</drill>
+	<drill name="Ger7 vs. vii°7/V">
+		<idiom>4da</idiom>
+		<idiom>4dd</idiom>
+	</drill>
+	<drill name="V-E's involving Ger+6/5">
+		<idiom>4db</idiom>
+		<idiom>3eg</idiom>
+		<idiom>3eh</idiom>
+	</drill>
+	<drill name="Ger+6/5 vs. V7/bII">
+		<idiom>4dc</idiom>
+		<idiom>4de</idiom>
+	</drill>
+</topic>
+
+
+<topic id ="4e">
+	<drill name="All">
+		<idiom>4ea</idiom>
+		<idiom>4eb</idiom>
+		<idiom>4ec</idiom>
+		<idiom>4ed</idiom>
+		<idiom>4eg</idiom>
+		<idiom>4eh</idiom>
+		<idiom>4ei</idiom>
+		<idiom>4ej</idiom>
+		<idiom>4ek</idiom>
+		<idiom>4el</idiom>
+	</drill>
+	<drill name="First inversion V9 vs. vii7">
+		<idiom>4ec</idiom>
+		<idiom>4ed</idiom>
+		<idiom>4ee</idiom>
+		<idiom>4ef</idiom>
+	</drill>
+	<drill name="Voicings of V11">
+		<idiom>4eg</idiom>
+		<idiom>4eh</idiom>
+		<idiom>4ei</idiom>
+		<idiom>4ej</idiom>
+		<idiom>4ek</idiom>
+	</drill>
+	<drill name="V11 vs. IV">
+		<idiom>4eg</idiom>
+		<idiom>4eh</idiom>
+		<idiom>4ei</idiom>
+		<idiom>4ej</idiom>
+		<idiom>4ek</idiom>
+		<idiom>4em</idiom>
+		<idiom>4en</idiom>
+	</drill>
+</topic>
+
+<topic id ="4f">
+	<drill name="All">
+		<idiom>4fa</idiom>
+		<idiom>4fb</idiom>
+		<idiom>4fc</idiom>
+		<idiom>4fd</idiom>
+	</drill>
+</topic>
+
+<topic id ="4g">
+	<drill name="All">
+		<idiom>4ga</idiom>
+		<idiom>4gb</idiom>
+		<idiom>4gc</idiom>
+	</drill>
+	<drill name="|| 10's">
+		<idiom>4gc</idiom>
+		<idiom>1bc</idiom>
+		<idiom>1cd</idiom>
+		<idiom>2ff</idiom>
+	</drill>
+	<drill name="Neighbor chords (CT°7 vs. IV6/4)">
+		<idiom>4gb</idiom>
+		<idiom>2ce</idiom>
+	</drill>
+	<drill name="CT°7 vs. V+">
+		<idiom>4ga</idiom>
+		<idiom>4fa</idiom>
+		<idiom>4fb</idiom>
+	</drill>
+</topic>
+
+
+<topic id ="4h">
+	<drill name="All">
+		<idiom>4ha</idiom>
+		<idiom>4hb</idiom>
+		<idiom>4hc</idiom>
+	</drill>
+	<drill name="Neighbor chords (CT+6 vs. CT°7 vs. IV6/4)">
+		<idiom>4hb</idiom>
+		<idiom>4gb</idiom>
+		<idiom>2ce</idiom>
+	</drill>
+	<drill name="CT+6 vs. CT°7 vs. V+">
+		<idiom>4ha</idiom>
+		<idiom>4ga</idiom>
+		<idiom>4fa</idiom>
+		<idiom>4fb</idiom>
+	</drill>
+	<drill name="FrV4/3 vs. V4/3">
+		<idiom>4hc</idiom>
+		<idiom>4hd</idiom>
+	</drill>
+</topic>
+
+</drills>
+
+
+
+
+
+
+
+
+

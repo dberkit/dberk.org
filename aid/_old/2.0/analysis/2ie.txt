@@ -1,0 +1,1 @@
+<p><span class='txt'>5-6 sequence, descending, alternating </span><span class='num'>f</span><span class='txt'> and </span><span class='num'>d</span></p>

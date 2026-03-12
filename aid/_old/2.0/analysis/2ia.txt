@@ -1,0 +1,1 @@
+<p><span class='txt'>circle of 5ths sequence, descending, all </span><span class='num'>f</span></p>

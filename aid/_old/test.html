@@ -1,0 +1,72 @@
+<html>
+<head>
+<!--<script type="text/javascript" src="test.js"></script>-->
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        myFunction(this);
+    }
+};
+xhttp.open("GET", "https://dberk.org/aid/2.0/aid-data.xml", true);
+xhttp.send();
+
+function myFunction(xml) {
+    var xmlDoc = xml.responseXML;
+    //document.getElementById("demo").innerHTML =
+    //xmlDoc.getElementsByTagName("mode")[0].childNodes[0].nodeValue;
+    
+    
+    //x = xmlDoc.getElementsByTagName("level")[0];
+    //y = x.getAttributeNode("label");
+    //txt = y.nodeValue + "---";
+    //document.getElementById("demo").innerHTML = txt;
+    
+    allLevels = xmlDoc.getElementsByTagName("level");
+    var txt = "";
+    
+    for (i=0; i<allLevels.length; i++) {
+        x = allLevels[i];
+        y = x.getAttributeNode("label");
+        txt += y.nodeValue + '<br>';
+    }
+    document.getElementById("demo").innerHTML = txt;
+    
+    
+    txt+="-------------------<br>";
+    
+    allLevels = xmlDoc.getElementsByTagName("topic");
+    for (i=0; i<allLevels.length; i++) {
+        x = allLevels[i];
+        y = x.getAttributeNode("label");
+        txt += y.nodeValue + '<br>';
+    }
+    document.getElementById("demo").innerHTML = txt;
+    
+
+    
+    
+    txt+="-------------------<br>";
+    
+    allLevels = xmlDoc.getElementsByTagName("idiom");
+    for (i=0; i<allLevels.length; i++) {
+        x = allLevels[i];
+        y = x.getAttributeNode("label");
+        txt += y.nodeValue + '<br>';
+    }
+    
+    document.getElementById("demo").innerHTML = txt;
+    
+}
+    
+</script>
+
+
+
+</body>
+</html>

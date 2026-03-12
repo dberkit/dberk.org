@@ -1,0 +1,1 @@
+﻿<p><span class='txt'>DP segment starts w/ </span><span class='num'>ej</span><span class='txt'>  or </span><span class='symboltxt'>III</span><span class='num'>j</span><span class='txt'>, then 7th chords w/ roots descending by 5th</span></p>

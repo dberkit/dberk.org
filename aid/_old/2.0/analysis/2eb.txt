@@ -1,0 +1,1 @@
+﻿<p><span class='txt'>DP segment starts w/ </span><span class='symboltxt'>vi</span><span class='txt'> or </span><span class='symboltxt'>VI</span><span class='txt'>, then has root motion down by 5ths</span></p>

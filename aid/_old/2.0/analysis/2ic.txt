@@ -1,0 +1,1 @@
+<p><span class='txt'>circle of 5ths sequence, ascending, all </span><span class='num'>f</span><span class='txt'> (sequence breaks before cadence) </span></p>
